@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "TDCR1050M")(type "KiCad")(uri "${KIPRJMOD}/libraries/symbols/TDCR1050M.kicad_sym")(options "")(descr ""))
+)
